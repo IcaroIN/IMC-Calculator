@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">IMCCalculator</string>
+    <string name="bmi_category">Sua categoria de IMC é: %1$s</string>
+    <string name="underweight">Abaixo do Peso</string>
+    <string name="normal_weight">Peso Normal</string>
+    <string name="overweight">Sobrepeso</string>
+    <string name="obesity_class_I">Obesidade Classe I</string>
+    <string name="obesity_class_II">Obesidade Classe II</string>
+    <string name="obesity_class_III">Obesidade Classe III</string>
+</resources>
+
+
